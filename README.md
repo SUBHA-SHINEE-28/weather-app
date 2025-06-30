@@ -20,20 +20,20 @@ A simple and responsive weather application built with Python (Flask), HTML, and
 
 To keep dependencies isolated, it's recommended to use a Python virtual environment.
 
-# Step 1: Create a virtual environment
+## Step 1: Create a virtual environment
 python -m venv .venv
 
-# Step 2: Activate the environment
-# 👉 For Windows (Command Prompt)
+## Step 2: Activate the environment
+## 👉 For Windows (Command Prompt)
 .venv\Scripts\activate
 
-# 👉 For Windows PowerShell
+## 👉 For Windows PowerShell
 .venv\Scripts\Activate.ps1
 
-# 👉 For macOS/Linux
+## 👉 For macOS/Linux
 source .venv/bin/activate
 
-# Step 3: Install all dependencies
+## Step 3: Install all dependencies
 pip install -r requirements.txt
 
 ## Environment Variables
