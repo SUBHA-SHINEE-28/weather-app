@@ -63,25 +63,6 @@ Click Run python file in VS code
 Then open your browser and go to:  
 http://127.0.0.1:8000  or  localhost:8000
 
-## Folder Structure
-
-your-project/
-├── .venv/
-│   ├── Scripts/
-│   ├── Lib/
-│   └── pyvenv.cfg
-├── static/
-│   └── styles/
-│       └── style.css
-├── templates/
-│   ├── index.html
-│   └── weather.html
-├── .env
-├── .gitignore
-├── requirements.txt
-├── server.py
-└── weather.py
-
 
 ## License
 
