@@ -58,7 +58,7 @@ You’re now ready to run the app!
 
 ## How to Run
 
-Click Run python file in VS code 
+run python server.py
 
 Then open your browser and go to:  
 http://127.0.0.1:8000  or  localhost:8000
