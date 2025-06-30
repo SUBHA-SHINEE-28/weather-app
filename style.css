@@ -1,0 +1,29 @@
+* {
+    color: white;
+    background-image: -webkit-linear-gradient(#130b5a, #393575);
+    background-size: cover;
+    background-attachment: fixed;
+    text-transform: capitalize;
+}
+
+body {
+    align-content: center;
+    text-align: center;
+    font-size: xx-large;
+}
+
+input::placeholder {
+    color: white;
+}
+
+input,
+button {
+    border-style: groove;
+    border-radius: 2rem;
+    border-color: white;
+    font-size: large;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
